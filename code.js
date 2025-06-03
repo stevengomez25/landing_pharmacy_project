@@ -13,7 +13,7 @@ const menuData = [
       {
         title: "Administrador",
         description:
-          "lse conforma por la persona administradora de la herramienta informática, responsable de configurar y supervisar el funcionamiento del software; además está encargada de brindar soporte tecnológico y capacitación en el uso de la herramienta. Se requiere un profesional en sistemas o software con al menos 3 años de experiencia.",
+          "Se conforma por la persona administradora de la herramienta informática, responsable de configurar y supervisar el funcionamiento del software; además está encargada de brindar soporte tecnológico y capacitación en el uso de la herramienta. Se requiere un profesional en sistemas o software con al menos 3 años de experiencia.",
       },
       {
         title: "Supervisor",
@@ -23,7 +23,7 @@ const menuData = [
       {
         title: "Básico",
         description:
-          "Pertenece a este grupo los usuarios de las sedes, bodega/almacén, servicio de transporte y demás personal operativo encargados de realizar registros en la plataforma referente a actividades inherentes a la organización, pueden ser técnicos en el área de la salud u otra rama pertinente a su rol, con conocimientos básicos en sistemas.",
+          "Pertenecen a este grupo los usuarios de las sedes, bodega/almacén, servicio de transporte y demás personal operativo encargados de realizar registros en la plataforma referente a actividades inherentes a la organización, pueden ser técnicos en el área de la salud u otra rama pertinente a su rol, con conocimientos básicos en sistemas.",
       },
     ],
   },
